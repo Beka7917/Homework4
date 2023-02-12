@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		FCAD0D052998A73400B47D83 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCAD0D042998A73400B47D83 /* main.swift */; };
+		FCAD0D0C2998A73D00B47D83 /* Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCAD0D0B2998A73D00B47D83 /* Cell.swift */; };
+		FCAD0D0E2998A74400B47D83 /* Screen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCAD0D0D2998A74400B47D83 /* Screen.swift */; };
+		FCAD0D102998A74B00B47D83 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCAD0D0F2998A74B00B47D83 /* Product.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		FCAD0D012998A73400B47D83 /* Homework4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Homework4; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCAD0D042998A73400B47D83 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		FCAD0D0B2998A73D00B47D83 /* Cell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cell.swift; sourceTree = "<group>"; };
+		FCAD0D0D2998A74400B47D83 /* Screen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen.swift; sourceTree = "<group>"; };
+		FCAD0D0F2998A74B00B47D83 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				FCAD0D042998A73400B47D83 /* main.swift */,
+				FCAD0D0B2998A73D00B47D83 /* Cell.swift */,
+				FCAD0D0D2998A74400B47D83 /* Screen.swift */,
+				FCAD0D0F2998A74B00B47D83 /* Product.swift */,
 			);
 			path = Homework4;
 			sourceTree = "<group>";
@@ -121,6 +130,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				FCAD0D052998A73400B47D83 /* main.swift in Sources */,
+				FCAD0D102998A74B00B47D83 /* Product.swift in Sources */,
+				FCAD0D0C2998A73D00B47D83 /* Cell.swift in Sources */,
+				FCAD0D0E2998A74400B47D83 /* Screen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
